@@ -1,0 +1,11 @@
+﻿  GPGame_Template_VS2017_x86.cpp
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(177): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(285): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(334): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(338): warning C4244: 'argument' : conversion de 'double' en 'float', perte possible de données
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(338): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(401): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(518): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(522): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\smcn\documents\prog n stuff\gpgametemplate-master\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86\gpgame_template_vs2017_x86.cpp(526): warning C4018: '<' : incompatibilité signed/unsigned
+  GPGame_Template_VS2017_x86.vcxproj -> C:\Users\smcn\Documents\Prog n Stuff\GPGameTemplate-master\GPGame_Template_VS2017_x86\Debug\GPGame_Template_VS2017_x86.exe
