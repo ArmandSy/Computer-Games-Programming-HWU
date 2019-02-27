@@ -31,15 +31,23 @@ J'ai rendu tant que possible le projet aléatoire: les balles apparaissent de ma
 Voici le résultat en images (GIFs & PNG) pour ceux qui auraient la flemme de télécharger le projet & le lancer : 
 
 Physically driven Balls / Balles soumises à une physique Newtonienne:
+
 ![physically driven balls](https://image.noelshack.com/fichiers/2019/09/3/1551300714-balls.gif)
+
 Particles:
+
 ![my particles](https://image.noelshack.com/fichiers/2019/09/3/1551300714-particles.gif)
+
 Mouvement de foule / Boids:
+
 ![my Boids](https://media.giphy.com/media/31ZmiUxzXPnqKPedAu/giphy.gif)
 A * :
 Le début étant la case bleue, la case cyan étant l'arrivée, le chemin trouvé par l'algorithme est tracé en vert.
+
 ![An A* path generation](https://image.noelshack.com/fichiers/2019/09/3/1551300512-a1.png)
+
 ![A second one](https://image.noelshack.com/fichiers/2019/09/3/1551300512-a2.png)
+
 ![And a third one](https://image.noelshack.com/fichiers/2019/09/3/1551300512-a3.png)
 
 
