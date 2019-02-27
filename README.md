@@ -50,5 +50,7 @@ Le début étant la case bleue, la case cyan étant l'arrivée, le chemin trouv�
 
 ![And a third one](https://image.noelshack.com/fichiers/2019/09/3/1551300512-a3.png)
 
+PS: 
 
+Thanks to https://github.com/NickeManarin/ScreenToGif/ for making the GIFs so easily !
 
